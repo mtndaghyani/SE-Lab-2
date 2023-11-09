@@ -131,8 +131,8 @@
 </td>
 <td width="95">
 <p><strong>موارد تحقق</strong></p>
-<p>بشتبیش</p>
 </td> 
+<p>بشتبیش</p>
 <td width="454">
 <p>&nbsp;</p>
 </td>
