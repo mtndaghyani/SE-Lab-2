@@ -131,7 +131,8 @@
 </td>
 <td width="95">
 <p><strong>موارد تحقق</strong></p>
-</td> کلاس های food و order تحقق شده 
+<p>بشتبیش</p>
+</td> 
 <td width="454">
 <p>&nbsp;</p>
 </td>
