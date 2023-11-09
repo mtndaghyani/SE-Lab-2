@@ -244,24 +244,24 @@
 </tr>
 <tr>
 <td width="168">
-<p>&nbsp;</p>
+<p>LSP</p>
 </td>
 <td width="246">
-<p>&nbsp;</p>
+<p>انتزاعی نبودن اردر سرویس</p>
 </td>
 <td width="284">
-<p>&nbsp;</p>
+<p>انتزاعی کردن اردرسرویس</p>
 </td>
 </tr>
 <tr>
 <td width="168">
-<p>&nbsp;</p>
+<p>SR</p>
 </td>
 <td width="246">
-<p>&nbsp;</p>
+<p>مورد اول</p>
 </td>
 <td width="284">
-<p>&nbsp;</p>
+<p>تابع کردن کلاس اصلی</p>
 </td>
 </tr>
 <tr>
