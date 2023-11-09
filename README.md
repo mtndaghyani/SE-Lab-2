@@ -247,7 +247,7 @@
 <p>LSP</p>
 </td>
 <td width="246">
-<p>&nbsp;</p>
+<p>انتزاعی کردن اردرسرویس</p>
 </td>
 <td width="284">
 <p>&nbsp;</p>
